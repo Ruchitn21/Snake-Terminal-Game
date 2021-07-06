@@ -7,5 +7,6 @@ Snake Terminal Game for Hack the Terminal Hackathon
 <br>• When snake crosses itself, the game will over. 
 <br>• Food will be generated at a given interval.</p>
 <br>
+  <img src='https://user-images.githubusercontent.com/49104850/124543314-a86f3400-de42-11eb-9c90-e9a852e278ef.jpg'></img>
 </body>
 </html>
